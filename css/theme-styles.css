@@ -2239,6 +2239,36 @@ th {
     width: 1066px;
     margin: 0 auto;
 }
+.work-wrapper{
+    display: flex;
+    width: 100%;
+}
+.education-wrapper-sub{
+    display: flex;
+}
+.skilled-wrapper{
+    width: 40%;
+}
+.work-history-wrapper{
+    width: 60%;
+}
+.eduction-partone{
+    border: 1px solid #000;
+    padding: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 310px;
+    overflow: scroll;
+}
+.skills-depart{
+    border: 1px solid #000;
+    padding: 15px;
+    height: 310px;
+    overflow: scroll;
+}
+
+
+
 
 /* @media (max-width: 320px) {
 	#logo {
